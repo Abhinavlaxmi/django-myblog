@@ -1,4 +1,5 @@
-My Blog
+#My Blog
+
 My Blog is a web application developed using the Python Django framework. It provides a platform for users to read and publish blog posts. The application features a home page, about page, contact page, and a dashboard page for managing posts.
 
 Features
